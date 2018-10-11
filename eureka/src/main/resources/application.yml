@@ -1,0 +1,10 @@
+zuul:
+  #Service will be mapped under the /api URI
+  prefix: /api
+  routes:
+    db-service:
+      path: /db-service/**
+      url: http://localhost:8081
+    employee-service:
+      path: /employee-service/**
+      url: http://localhost:8082

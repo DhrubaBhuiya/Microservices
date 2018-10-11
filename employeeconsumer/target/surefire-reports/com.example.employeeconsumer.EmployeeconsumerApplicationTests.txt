@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.employeeconsumer.EmployeeconsumerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.167 s - in com.example.employeeconsumer.EmployeeconsumerApplicationTests
